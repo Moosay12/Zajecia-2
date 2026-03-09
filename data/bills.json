@@ -1,0 +1,16 @@
+{
+    "tenant-1": {
+        "amount":  1500.0,
+        "date" : "2024-12-31",
+        "type" : "czynsz",
+        "apartment" : "apart-polanka"
+
+     
+    },
+    "tenant-2": {
+        "amount": 1200.0,
+        "date" : "2025-02-01",
+        "type" : "czynsz",
+        "apartment" : "apart-polanka"
+}
+}
